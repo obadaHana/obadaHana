@@ -1,13 +1,13 @@
 # Hi there, I'm Obada! 👋
 
 ## About Me
-- 🌱 I’m currently learning Fullstack Development and Math/Statistics.
-- 💼 I’m working on a group project for full stack development using modern web technologies.
-- 📫 How to reach me: [Obada Hanas]([https://www.linkedin.com/in/obada-hanas](https://www.linkedin.com/in/obada-hana-bbb217152/))  
+- 🌱 Currently learning Fullstack Development (React, Node.js, Docker) and studying Math & Statistics.
+- 💼 Building a group project focused on full stack development using modern technologies.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/obada-hana-bbb217152/)
 
 ## My Skills
 - **Programming Languages**: JavaScript, Python, Java, C#
-- **Tools & Technologies**: React, Node.js, Express, MongoDB, Git, Docker, PostgreSQL, REST APIs
+- **Tools & Technologies**: React, Node.js, Express, MongoDB, PostgreSQL, Docker, Git, REST APIs
 
 ## Hobbies
 - Reading (tech, philosophy, fiction)
@@ -15,3 +15,4 @@
 - Cooking (especially Mediterranean dishes)
 
 ## Let's Connect!
+Feel free to connect on LinkedIn or reach out if you want to collaborate!
