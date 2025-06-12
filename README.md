@@ -1,4 +1,4 @@
-# Hi there, I'm Obada! 👋
+# Hi there, I'm Obada!
 
 ## About Me
 - 🌱 I’m currently learning Fullstack Development and Math/Statistics.
@@ -7,11 +7,9 @@
 
 ## My Skills
 - **Programming Languages**: JavaScript, Python, Java, C#
-- **Tools & Technologies**: React, Node.js, Express, MongoDB, Git, Docker, PostgreSQL, REST APIs
+- **Tools & Technologies**: React, Node.js, Express, MongoDB, Git, 
 
 ## Hobbies
 - Reading (tech, philosophy, fiction)
 - Running
-- Cooking (especially Mediterranean dishes)
 
-## Let's Connect!
